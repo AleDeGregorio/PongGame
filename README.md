@@ -1,23 +1,23 @@
 # Pong
-Sviluppo del videogioco Pong su scheda di sviluppo ARM-based LandTiger
+Development of Pong videogame in LandTiger ARM-based development board
 
-# Informazioni principali
-Il videogioco è stato sviluppato come parte di un progetto presso il _Politecnico di Torino_. 
+# Main informations
+Videogame has been developed as parte of a project at _Politecnico di Torino_.
 
-Il corso di _Architetture dei sistemi di elaborazione_ ha proposto questa traccia nell'anno accademico _2021/2022_, nel corso di Laurea Magistrale di _Ingegneria Informatica_. 
+Course _Architetture dei sistemi di elaborazione_ proposed this project during the academic year _2021/2022_, in the _Computer Engineering_ Master's Degree course.
 
-# Descrizione del gioco
-L'implementazione ricalca il classico gioco _Pong_, originalmente rilasciato da Atari nel 1972. 
+# Game description
+Implementation traces the classic _Pong_ game, originally relased by Atari in 1972.
 
-In questo progetto, viene proposta una versione single player. 
+In this project, it is proposed a single player version.
 
-L'obiettivo del gioco è non fare cadere la pallina al di sotto della barra mobile posta nella parte inferiore dello schermo.
+Game goal is not to make tha ball go under the moving bar placed in the bottom of the screen.
 
-Ogni volta che la pallina viene colpita con la barretta, il punteggio viene incrementato. A seconda della zona della barretta colpita, la pallina rimbalzera con una inclinazione differente.
+Every time the ball hit the moving bar, score is increased. Depending on the area of the bar that is hit, ball will bounce with a different angle.
 
-Il gioco è dotato di effetti audio.
+Game present some audio effects.
 
-# Video dimostrazione del gioco
-È possibile vedere una dimostrazione video del gioco, seguendo il link sottostante:
+# Game demo video
+It is possible to see a demo video at this link:
 
 https://www.youtube.com/watch?v=i1CKPBXyIVU
